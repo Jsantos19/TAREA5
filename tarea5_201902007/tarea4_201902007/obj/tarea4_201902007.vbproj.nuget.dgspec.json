@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\UNIVERSIDAD SAN CARLOS DE GUATEMALA (USAC)\\7TO SEMESTRE\\PROGRAMACIÓN DE COMPUTADORAS 2\\PRACTICA\\Tarea 4\\tarea4_201902007\\tarea4_201902007\\tarea4_201902007.vbproj": {}
+  },
+  "projects": {
+    "E:\\UNIVERSIDAD SAN CARLOS DE GUATEMALA (USAC)\\7TO SEMESTRE\\PROGRAMACIÓN DE COMPUTADORAS 2\\PRACTICA\\Tarea 4\\tarea4_201902007\\tarea4_201902007\\tarea4_201902007.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\UNIVERSIDAD SAN CARLOS DE GUATEMALA (USAC)\\7TO SEMESTRE\\PROGRAMACIÓN DE COMPUTADORAS 2\\PRACTICA\\Tarea 4\\tarea4_201902007\\tarea4_201902007\\tarea4_201902007.vbproj",
+        "projectName": "tarea4_201902007",
+        "projectPath": "E:\\UNIVERSIDAD SAN CARLOS DE GUATEMALA (USAC)\\7TO SEMESTRE\\PROGRAMACIÓN DE COMPUTADORAS 2\\PRACTICA\\Tarea 4\\tarea4_201902007\\tarea4_201902007\\tarea4_201902007.vbproj",
+        "packagesPath": "C:\\Users\\Jose Santos\\.nuget\\packages\\",
+        "outputPath": "E:\\UNIVERSIDAD SAN CARLOS DE GUATEMALA (USAC)\\7TO SEMESTRE\\PROGRAMACIÓN DE COMPUTADORAS 2\\PRACTICA\\Tarea 4\\tarea4_201902007\\tarea4_201902007\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jose Santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
